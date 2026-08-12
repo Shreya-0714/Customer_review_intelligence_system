@@ -1,0 +1,9 @@
+pandas
+nltk
+scikit-learn
+streamlit
+plotly
+transformers
+torch
+jupyter
+ipykernel
